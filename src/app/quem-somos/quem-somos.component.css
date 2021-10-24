@@ -1,21 +1,3 @@
-
-/* .triangulo{
-    position: absolute;
-    width: 260.39px;
-    height: 228.48px;
-    left: 299.3px;
-    top: 71.42px;
-    
-    border-radius: 12px;
-    background: url(https://i.imgur.com/YTrS3Fj.jpg);
-    transform: rotate(89.72deg);
-   
-}  */
-
-.imgT{
-    width: 40rem;
-}
-
 .movText{
     margin-top: 15rem;
     
@@ -27,13 +9,15 @@
 h1{
     color: #92D0CF;
     font-weight: bolder;
-    font-size: 70px;
+    font-size: 80px;
+    margin-left: -5rem;
 
 }
 h2{
     color: #B0336D;
     font-weight: bolder;
-    font-size: 70px;
+    font-size: 80px;
+    margin-left: -5rem;
 }
 
 h3{
@@ -54,6 +38,7 @@ p{
     margin: 100px auto;
     display: flex;
     justify-content: center;
+    
 }
 
 .box1{

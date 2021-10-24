@@ -1,7 +1,3 @@
-.imgT{
-    width: 40rem;
-}
-
 .movText{
     margin-top: 15rem;
     
@@ -14,12 +10,14 @@ h1{
     color: #92D0CF;
     font-weight: bolder;
     font-size: 70px;
+    margin-left: -10rem;
 
 }
 h2{
     color: #B0336D;
     font-weight: bolder;
     font-size: 70px;
+    margin-left: -10rem;
 }
 
 h3{
