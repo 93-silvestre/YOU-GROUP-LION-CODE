@@ -5,14 +5,70 @@
     margin-top: 30%;
 }
 
+
+
+
+.triangulo1{
+    z-index: -5;
+    margin-top: -50rem;
+    margin-left: 12.5rem;
+    margin-bottom: -1.5rem; 
+    
+   
+    
+
+}
+
+.triangulo2{
+    z-index: -5;
+    margin-top: -8rem;
+    margin-left: 16rem; 
+    margin-bottom: 1rem;
+   
+   
+   
+}
+
+.triangulo3{
+    z-index: 0;
+    margin-left: -2rem;
+    margin-top: -1rem;
+    margin-bottom: 9rem;
+}
+
+.triangulo4{
+    z-index: -5;
+    margin-top: -12.5rem;
+    margin-left: -4rem;
+    margin-bottom: 12rem;
+
+}
+
+.triangulo5{
+   z-index: 0;
+   margin-left: -4rem;
+   margin-top: -3rem;
+   margin-bottom: -4rem;
+
+}
+
+.triangulo6{
+    z-index: -5;
+    margin-left: 23rem;
+    margin-bottom: -1rem;
+    
+
+}
+
 input{
      border-color: #AECBC9;
      border-radius: 10px;
      margin: -5px;
      padding: 25px;
-     
+  
      
 }
+
 
 .imgT{
     width: 40rem;
@@ -56,6 +112,14 @@ input{
     
 }
 
+.imgLogo{
+   margin-left: 11rem;
+   margin-top: -10rem;
+   margin-bottom: 2rem;
+   
+
+}
+
 
 
 h1{
@@ -93,16 +157,17 @@ P{
 
 .cont{
     width: 90%;
-    padding: 10px;
+    padding: 0px;
     background:#fff;
-    margin: 100px auto;
+    margin: 30px auto;
+    margin-left: 0px;
     display: flex;
-    justify-content: center;
+    
 }
 
 .box1{
-    width: 250px;
-    height: 250px;
+    width: 650px;
+    height: 350px;
     background: #92D0CF;
     margin: 0px 0px;
     transition: 1s;    
@@ -112,12 +177,15 @@ P{
     color: #75B9B8;
     font-weight: bolder;
     font-size: 50px;
+   
+    
+    
   
 }
 
 .box2{
-    width: 250px;
-    height: 250px;
+    width: 650px;
+    height: 350px;
     background: #BF3976;
     margin: 0px 0px;
     transition: 1s; 
@@ -131,8 +199,8 @@ P{
 }
 
 .box3{
-    width: 250px;
-    height: 250px;
+    width: 650px;
+    height: 350px;
     background: #AE56A0;
     margin: 0px 0px;
     transition: 1s;
