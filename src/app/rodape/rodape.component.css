@@ -1,0 +1,33 @@
+.imgFooter{
+    margin-bottom: -10rem;
+    margin-top: -2rem;
+    margin-left: -7rem;
+}
+.textFooter{
+    margin-left: 19rem;
+    color: #B2B2B2;
+    font-size: 27px;
+}
+
+.icon{
+    font-size: 30px;
+    color: #E1E1E1;
+    display: inline-block;
+    margin-left: 50rem;
+    
+
+}
+
+.social-network a{
+    display: inline-block;
+    height: 55px;
+    width: 55px;
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 55px;
+    border-radius: 30%;
+    border: 2px solid  #E1E1E1 ;
+    color: #E1E1E1;
+    margin-left: 1rem;
+    
+}

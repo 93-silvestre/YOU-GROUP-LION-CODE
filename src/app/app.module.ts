@@ -10,6 +10,7 @@ import { PortifolioComponent } from './portifolio/portifolio.component';
 import { CreatorsComponent } from './creators/creators.component';
 import { ClientesComponent } from './clientes/clientes.component';
 import { ContatoComponent } from './contato/contato.component';
+import { RodapeComponent } from './rodape/rodape.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { ContatoComponent } from './contato/contato.component';
     PortifolioComponent,
     CreatorsComponent,
     ClientesComponent,
-    ContatoComponent
+    ContatoComponent,
+    RodapeComponent
   ],
   imports: [
     BrowserModule,

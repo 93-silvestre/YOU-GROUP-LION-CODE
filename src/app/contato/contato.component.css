@@ -25,6 +25,37 @@ input{
 
 }
 
+.textFooter{
+    margin-left: 5rem;
+    color: #B2B2B2;
+    font-size: 20px;
+    
+}
+
+.icon{
+    font-size: 25px;
+    color: #B6B6B6;
+    display: inline-block;
+    margin-left: 5rem;
+    margin-top: 8rem;
+    
+
+}
+
+.social-network a{
+    display: inline-block;
+    height: 45px;
+    width: 45px;
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 39px;
+    border-radius: 30%;
+    border: 2px solid  #B6B6B6;
+    color: #B6B6B6;
+    margin-left: 1rem;
+    
+}
+
 
 
 h1{
