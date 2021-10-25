@@ -11,6 +11,7 @@ h1{
     font-weight: bolder;
     font-size: 70px;
     margin-left: -10rem;
+  
 
 }
 h2{
@@ -18,20 +19,33 @@ h2{
     font-weight: bolder;
     font-size: 70px;
     margin-left: -10rem;
+    
+  
 }
 
 h3{
     color: #C5C6C8;
     font-weight: bolder;
     font-size: 40px;
-    margin-left: 18rem;           
+    margin-left: 11rem;           
     
 }
 
 p{
     color: #595959;
     font-size: 20px;
-    margin-left: 18rem;
+    margin-left: 11rem;
+}
+
+.video{
+    border-radius: 30px;
+    margin-left: -13rem;
+    
+}
+
+.video2{
+    border-radius: 30px;
+    margin-left: 8rem;
 }
 
 hr{
@@ -40,7 +54,7 @@ hr{
     height: 5px;
     width: 88%;
     border-radius: 5px;
-    margin-left: 10%;
+    margin-left: 10rem;
    
 
 }
@@ -62,7 +76,7 @@ h4{
 }
 
 .h5{
-    margin-left: 33rem;  
+    margin-left: 27rem;  
 
 }
 
@@ -77,18 +91,57 @@ h4{
 
 .contCard{ 
     display: flex;
-    margin-left: 8rem;  
+    margin-left:1.5rem;  
    
 }
 
-.card{
+.card1{
     width: 15rem;
     height: 25rem;
     border-radius: 30px;
-    background-color: #C3ECE3;
     margin: 5px;
     
 
+}
+
+.card2{
+    width: 15rem;
+    height: 25rem;
+    border-radius: 30px;
+    margin: 5px;
+    
+
+}
+
+.card3{
+    width: 15rem;
+    height: 25rem;
+    border-radius: 30px;
+    margin: 5px;
+    
+
+}
+
+.card4{
+    width: 15rem;
+    height: 25rem;
+    border-radius: 30px;
+    margin: 5px;
+    
+
+}
+.card5{
+    width: 15rem;
+    height: 25rem;
+    border-radius: 30px;
+    margin: 5px;
+    
+
+}
+
+.card-img-top{
+   height: 100%;
+   border-radius: 30px;
 }
 
 .cont{
@@ -188,7 +241,7 @@ h4{
 }
 
 
-.card{
+.cardImg{
     width: 200px;
     height: 200px;
     margin: 15px;  

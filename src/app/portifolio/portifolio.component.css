@@ -53,10 +53,18 @@ h2{
 
 }
 
-.card:nth-child(1){
+.card:nth-last-child(1){
+    order: 3;
+    background-image: url("https://i.imgur.com/HjNVk1d.png");
+    border: none;
+    
+}
+
+.card:nth-child(3){
     order: 1;
-    background: #00ffff;
-    color: rgb(47,0,100);
+    background: url("https://i.imgur.com/H541ySC.png");
+    border: none;
+    
 }
 
 .content1 .card img{
