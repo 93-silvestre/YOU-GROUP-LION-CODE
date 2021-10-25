@@ -27,14 +27,14 @@ h2{
 
 }
 
-.container{
+.cont1{
     position: relative;
     display: flex;
     justify-content: center;
     margin-top: 0px;
 }
 
-.content{
+.content1{
     margin-top: 40px;
     display: flex;
     justify-content: center;
@@ -59,7 +59,7 @@ h2{
     color: rgb(47,0,100);
 }
 
-.content .card img{
+.content1 .card img{
     width: 140px;
     height: 140px;
     border-radius: 50%;
@@ -156,3 +156,25 @@ h2{
     
 }
 
+.contImg{
+    background-color: #FAFAFA;
+    display: flex;
+    margin-left: 0.5rem; 
+    
+   
+  
+}
+
+
+.cardImg{
+    width: 200px;
+    height: 200px;
+    margin: 15px;  
+    margin-left: 0.8rem; 
+    margin-top: 0.5rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    border: none;
+    display: flex;
+  
+}

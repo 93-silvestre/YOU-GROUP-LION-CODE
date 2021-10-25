@@ -118,3 +118,37 @@ p{
     align-items: center;
     
 }
+
+
+
+.contImg{
+    background-color: #FAFAFA;
+    display: flex;
+    margin-left: 0.5rem; 
+    
+   
+  
+}
+
+
+.card{
+    width: 200px;
+    height: 200px;
+    margin: 15px;  
+    margin-left: 0.8rem; 
+    margin-top: 0.5rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    border: none;
+    display: flex;
+  
+}
+
+
+
+
+
+
+
+
+
