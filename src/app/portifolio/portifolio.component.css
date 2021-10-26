@@ -60,12 +60,7 @@ h2{
     
 }
 
-.card:nth-child(3){
-    order: 1;
-    background: url("https://i.imgur.com/H541ySC.png");
-    border: none;
-    
-}
+
 
 .content1 .card img{
     width: 140px;
