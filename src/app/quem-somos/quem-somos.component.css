@@ -1,23 +1,26 @@
 .movText{
-    margin-top: 15rem;
-    
+    margin-top: 15rem;  
 
 }
 
 
 
-h1{
+.H1{
     color: #92D0CF;
     font-weight: bolder;
-    font-size: 80px;
-    margin-left: -5rem;
-
+    font-size: 70px;
+    margin-right: 10rem;
+    margin-left: -10rem;
+    margin-bottom: -1rem;
+ 
 }
-h2{
+
+.H2{
     color: #B0336D;
     font-weight: bolder;
-    font-size: 80px;
-    margin-left: -5rem;
+    font-size: 75px;
+    margin-left: -10rem;
+    
 }
 
 h3{
@@ -31,19 +34,16 @@ p{
 
 }
 
+
 .cont{
-    width: 90%;
-    padding: 10px;
-    background:#fff;
-    margin: 100px auto;
     display: flex;
-    justify-content: center;
-    
+    margin-top: 5rem;
+    margin-bottom: 5rem;  
 }
 
 .box1{
-    width: 250px;
-    height: 250px;
+    width: 450px;
+    height: 350px;
     background: #92D0CF;
     margin: 0px 0px;
     transition: 1s;    
@@ -52,49 +52,49 @@ p{
 .txt1{
     color: #75B9B8;
     font-weight: bolder;
-    font-size: 50px;
-  
+    font-size: 90px;
+    padding-top: 7rem;
 }
 
 .box2{
-    width: 250px;
-    height: 250px;
+    width: 450px;
+    height: 350px;
     background: #BF3976;
     margin: 0px 0px;
     transition: 1s; 
-
 }
 
 .txt2{
     color: #FEFCFE;
     font-weight: bolder;
-    font-size: 50px;
+    font-size: 90px;
+    padding-top: 7rem;
 }
 
 .box3{
-    width: 250px;
-    height: 250px;
+    width: 450px;
+    height: 350px;
     background: #AE56A0;
     margin: 0px 0px;
-    transition: 1s;
-    
-
+    transition: 1s;    
 }
 
 .txt3{
     color: #943E85;
     font-weight: bolder;
-    font-size: 50px;
+    font-size: 90px;
+    padding-top: 7rem;
 }
-
-
 
 .box1:hover{
     transform: scale(1.3);
     background: #92D0CF ;
     box-shadow: 0px 2px 2px #92D0CF;
     z-index: 2;
-
+    padding-left: 2rem;
+    
+        
+    
 }
 
 .box2:hover{
@@ -102,7 +102,8 @@ p{
     background: #BF3976 ;
     box-shadow: 0px 2px 2px#BF3976 ;
     z-index: 2;
-
+    
+    
 }
 
 .box3:hover{
@@ -110,8 +111,23 @@ p{
     background: #AE56A0;
     box-shadow: 4px 4px 10px #ECECEC;
     z-index: 2;
-
+    width: 390px;
 }
+
+.txt1:hover{
+    font-size: 75px;
+   
+}    
+
+.txt2:hover{
+    font-size: 75px;
+}
+
+.txt3:hover{
+    font-size: 75px;
+}
+
+
 
 .bg-col{
     background:  #E7E7E7;
