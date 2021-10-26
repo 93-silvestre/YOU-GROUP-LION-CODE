@@ -1,28 +1,23 @@
 .nav-link{
     font-weight: bolder;
     line-height: 5rem;
-    font-size: 25px;
+    font-size: 20px;
     margin-right: 40px;
+    margin-top: 20px;
      
 }
 
 .gradient{
     color:black;
 }
-/* Agora, colocando um degradê */
+
 .gradient:hover {
-  /* Primeiro passo: definir um degradê como fundo */
   background-image: linear-gradient(to left, #B1316C,  #92D0CF);
-
-  /* Segundo passo: apagar do fundo tudo que não estiver imediatamente atrás de texto */
   background-clip: text;
-  -webkit-background-clip: text; /* Alguns navegadores precisam do prefixo */
-
-  /* Terceiro passo: apagar o texto, deixando apenas o fundo atrás dele */
+  -webkit-background-clip: text; 
   -webkit-text-fill-color: transparent;
-
-  /* Cor que contraste com o degradê, caso o navegador não suporte background-clip: text */
   color: black;
+  text-transform: uppercase;
 
 }
 
