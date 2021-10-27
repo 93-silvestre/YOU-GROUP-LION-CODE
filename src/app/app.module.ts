@@ -11,6 +11,7 @@ import { CreatorsComponent } from './creators/creators.component';
 import { ClientesComponent } from './clientes/clientes.component';
 import { ContatoComponent } from './contato/contato.component';
 import { RodapeComponent } from './rodape/rodape.component';
+import { ClienteSolucoesComponent } from './cliente-solucoes/cliente-solucoes.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { RodapeComponent } from './rodape/rodape.component';
     CreatorsComponent,
     ClientesComponent,
     ContatoComponent,
-    RodapeComponent
+    RodapeComponent,
+    ClienteSolucoesComponent
   ],
   imports: [
     BrowserModule,
